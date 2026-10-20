@@ -1,0 +1,12 @@
+{
+  "name": "krasavinigor-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update:oss": "node scripts/update-oss-prs.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

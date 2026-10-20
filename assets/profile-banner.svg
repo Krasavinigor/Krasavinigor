@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" role="img" aria-labelledby="title desc">
+  <title id="title">Connected interfaces</title>
+  <desc id="desc">A minimal network of curved lines with a yellow focal point.</desc>
+  <style>
+    :root { --bg: #f5f7fb; --line: #63718a; --strong: #1a3558; --accent: #f2bf41; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #111b2c; --line: #8499b9; --strong: #d6e3fa; --accent: #f2bf41; }
+    }
+  </style>
+  <rect width="1000" height="160" rx="18" fill="var(--bg)"/>
+  <g fill="none" stroke="var(--line)" stroke-width="2" opacity=".7">
+    <path d="M0 114 C120 114 100 34 231 34 S341 126 457 126 S566 44 673 44 S804 115 1000 115"/>
+    <path d="M0 137 C131 137 130 67 251 67 S357 100 456 100 S585 17 700 17 S851 84 1000 84" opacity=".55"/>
+  </g>
+  <g fill="var(--strong)">
+    <circle cx="231" cy="34" r="5"/>
+    <circle cx="457" cy="126" r="5"/>
+    <circle cx="673" cy="44" r="5"/>
+  </g>
+  <circle cx="700" cy="17" r="9" fill="var(--accent)"/>
+  <circle cx="700" cy="17" r="16" fill="none" stroke="var(--accent)" stroke-width="2" opacity=".55"/>
+</svg>
