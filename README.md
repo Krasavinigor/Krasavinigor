@@ -35,10 +35,11 @@ The [repository](https://github.com/Krasavinigor/Raincoat) includes the architec
 <!-- OSS-PRS:START -->
 #### Selected external merged pull requests
 
+- [\[BEAM-14081\] \[CdapIO\] Add context classes for CDAP plugins](https://github.com/apache/beam/pull/17104) · apache/beam
 - [Return previous value for PROMISE\_CONCURRENCY](https://github.com/microsoft/appcenter-cli/pull/1398) · microsoft/appcenter-cli
+- [Modify condition](https://github.com/microsoft/appcenter-cli/pull/1388) · microsoft/appcenter-cli
 - [\[CodePush\] Fix json output](https://github.com/microsoft/appcenter-cli/pull/1244) · microsoft/appcenter-cli
 - [\[CodePush\] Add limit for request](https://github.com/microsoft/appcenter-cli/pull/1215) · microsoft/appcenter-cli
-- [Mitigate zipperdown](https://github.com/microsoft/react-native-code-push/pull/1881) · microsoft/react-native-code-push
 <!-- OSS-PRS:END -->
 
 **Working with:** React · TypeScript · Next.js · data visualization · design systems · Node.js · Python · PostgreSQL · Docker · GitLab CI
